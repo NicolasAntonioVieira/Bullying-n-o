@@ -36,7 +36,7 @@ body {
 
         width: px;
         height: 150px;
-        border-radius: 50%;
+        border-radius: 50px;
         border: 5px solid #5BBE42;
         display: flex;
         justify-content: center;
@@ -60,7 +60,7 @@ a {
 img {
     width: 150px;
     height: 150px;
-    border-radius: 50%;
+    border-radius: 50px;
     border: 5px solid #5BBE42;
 }
 
